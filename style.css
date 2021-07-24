@@ -1,0 +1,81 @@
+h1 {
+    text-align: center;
+    background-color: cornflowerblue;
+    color: gold;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#starters_image_div {
+    height: 254.5px;
+    width: 405px;
+    border: 5px solid rgba(0, 0, 126);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.list {
+    font-size: small;
+    color: white;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.pokemon_description {
+    margin-left: 20px;
+    display: block;
+}
+
+.pokemon_names {
+    margin-left: 20px;
+    display: block;
+}
+
+.pokemon_images {
+    width: 125px;
+    height:auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    font-size: small;
+    color: white;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#bulbasaur_container {
+    background-color: lightgreen;
+    border-radius: 10px;
+}
+
+#charmander_container {
+    background-color: lightsalmon;
+    border-radius: 10px;
+}
+
+#squirtle_container {
+    background-color: lightskyblue;
+    border-radius: 10px;
+}
+
+.pokemon_names {
+    color: white;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: black;
+}
+
+p {
+    font-size: small;
+    color: white;
+    text-align: left;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
